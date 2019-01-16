@@ -31,7 +31,7 @@
 #include "obrender/theme.h"
 
 #define PADDING 2
-#define MAX_MENU_WIDTH 400
+#define MAX_MENU_WIDTH 800
 
 #define ITEM_HEIGHT (ob_rr_theme->menu_font_height + 2*PADDING)
 
